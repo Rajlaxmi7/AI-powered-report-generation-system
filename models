@@ -1,0 +1,4 @@
+Here are the links to the pre-trained models that are used while building the AI-powered-report-generation-system
+Huggig face : https://huggingface.co/
+Mistral : mistralai/Mistral-7B-v0.1
+LoRa : https://huggingface.co/docs/peft/main/en/conceptual_guides/lora
